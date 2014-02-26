@@ -9,7 +9,7 @@ from aqt.qt import *
 import string
 
 #cyrillic fixes
-replacements = [u"О", u"о́", u"А", u"а́", u"Е", u"е́", u"И", u"и́", u"У" , u"у́", u"Ы", u"ы́", u"Э", u"э́", u"Я", u"я́"]
+replacements = [u"О", u"о́", u"А", u"а́", u"Е", u"е́", u"И", u"и́", u"У" , u"у́", u"Ы", u"ы́", u"Э", u"э́", u"Я", u"я́", u"Ю", u"ю́"]
 
 def flip_it():
 	cardCount = mw.col.cardCount()
