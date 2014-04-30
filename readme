@@ -1,1 +1,10 @@
 put into your anki addons folder
+
+fix_stressmarks.py
+	replaces Upper case letters in words with lower cas words with stress mark
+
+flip_front_back.py
+	flips back and front side on all cards which are tagged with "flip-front-back"
+	
+add_shtooka_sounds.py
+	adds shtooka sound recordings from a shtooka.net package
